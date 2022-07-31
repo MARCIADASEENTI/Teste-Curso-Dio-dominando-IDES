@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+E:\Teste_DIO\JAVA\cami\.metadata\.plugins\org.eclipse.jdt.core
+484698983.index
+1865797976.index
+3314469376.index

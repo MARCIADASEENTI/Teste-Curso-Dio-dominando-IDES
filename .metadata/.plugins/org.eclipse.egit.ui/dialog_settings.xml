@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="CommitDialog.authorValues">
+		<item value="Márcia &lt;marcia.darts@gmail.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="Márcia &lt;marcia.darts@gmail.com&gt;"/>
+	</list>
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="false"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="E:\Teste_DIO\JAVA\cami\SegundoPrograma\.git">
+			<item value="false"/>
+			<item value="Márcia &lt;marcia.darts@gmail.com&gt;"/>
+			<item value="first commit"/>
+			<item value="Márcia &lt;marcia.darts@gmail.com&gt;"/>
+			<item value="bdd8323c6ab82f801658a1e420f32746dca619fe"/>
+			<item value="0"/>
+			<item value="false"/>
+		</list>
+	</section>
+</section>

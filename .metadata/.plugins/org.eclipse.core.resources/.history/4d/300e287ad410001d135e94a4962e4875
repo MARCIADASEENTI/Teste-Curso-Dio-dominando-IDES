@@ -1,0 +1,19 @@
+import br.dio.com.model.Gato;
+
+public class SegundoProgrma{
+	public static void main(String args[]){
+		Gato gato = new Gato();
+		Livros livros = new Livros ();
+		
+			/*int a = 100;
+			int b = 10; 
+			String nome = "Marcia Alves";
+			System.out.println( nome + " " + "Helow, Deu certo!" + " "+ "Nota" + " " +(a*b));*/
+	}
+}
+
+class livros {
+	private String titulo;
+	private Integer numPag;
+	
+}

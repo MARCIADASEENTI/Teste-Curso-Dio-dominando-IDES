@@ -1,0 +1,8 @@
+public class PrimeiroPrograma{
+	public static void main(String args[]){
+			int a = 100;
+			int b = 10; 
+			String nome = "Marcia Alves";
+			System.out.println( nome + " " + "Helow, Deu certo!" + " "+ "Nota" + " " +(a*b));
+	}
+}
